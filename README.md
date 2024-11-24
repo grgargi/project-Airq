@@ -12,17 +12,5 @@ Comparative evaluation of models.
 
 ### Dataset Information:
 The dataset contains air quality measurements collected in New York City. It includes features such as pollutant levels, meteorological factors, and timestamps. The dataset has been cleaned and preprocessed to ensure robust model training.
-https://catalog.data.gov/dataset/air-quality
-
-
-
-
-
-
-
-
-
-
-
 
 Dataset:https://catalog.data.gov/dataset/air-quality
