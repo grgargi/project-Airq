@@ -6,8 +6,11 @@ This project predicts air quality levels in New York City and explores their imp
 
 ### Key Features:
 Data preprocessing and visualization.
+
 Implementation of multiple regression models.
+
 Hyperparameter tuning for optimal performance.
+
 Comparative evaluation of models.
 
 ### Dataset Information:
